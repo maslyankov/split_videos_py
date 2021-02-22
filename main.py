@@ -185,15 +185,3 @@ def split_video(video_in):
 if __name__ == '__main__':
     # crop_video("data/1920x2880_normal.mp4", 0, 0, 1440, 1920)
     split_video("data/1920x2880_normal.mp4")
-
-
-
-    # videos_data = [
-    #     {
-    #         "videoname": "data/1920x2880_normal.mp4"
-    #         "args": 0, 0, 1440, 1920
-    #     },
-    #     {}
-    # ]
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
